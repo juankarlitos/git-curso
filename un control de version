@@ -1,0 +1,23 @@
+un control de versiones de código fuente, el cual nos permite hacer cambios que se van incorporando al repositorio central, permite ver cómo y cuándo se realizaron los cambios anteriores y modificar en caso de tener alguna eventualidad.
+
+
+
+
+
+
+
+***********************************************************************************************************************************
+
+wildfly
+
+Es una aplicación de software libre y código abierto que puede ser utilizada en cualquier sistema operativo.
+	Se basa en descargar el archivo, descomprimirlo y usarlo como servidor de aplicaciones en conjunto a las demás herramientas.
+-----------------------------------------------------------------------
+
+Wildfly esta preparado para la producción y certificación J2EE, ofreciendo una plataforma de alto rendimiento para aplicaciones de e-bussines, también se mantiene dentro de la arquitectura J2EE.
+
+------------------------------------------------------------------
+
+maven
+
+Es una herramienta de línea de comandos, sin interface gráfica ni nada que se le parezca, que nos ayuda a crear los directorios de nuestro proyecto y con las tareas habituales que se realizan en él, como compilado, generar jar, documentación, distribuir, dependencias con otros jar, etc.
